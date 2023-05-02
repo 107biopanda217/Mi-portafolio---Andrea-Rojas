@@ -1,0 +1,41 @@
+body{
+    /* RGB = red, green, blue */
+    background-color:turquoise;
+    color:crimson;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Poiret One', cursive;;
+}
+
+p{
+    color:purple;
+}
+
+h1{
+    color:magenta;
+}
+
+/* Para agregar clase, ponemos ( . ) antes del nombre */
+
+.titulo-web{ /* Línea 31 de index.htlm */
+    color:blue;
+    font-size: xx-large; /* ??????????????? */
+
+}
+
+.muchos-gatitos{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+
